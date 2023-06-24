@@ -1,5 +1,10 @@
 .container{
     margin-bottom:100px;
+
+}
+.container a{
+    margin-left:25px;
+    font-size:25px;
 }
 
 .orange{
@@ -23,4 +28,66 @@
     border-radius:8px;
     padding:9px 25px;
     cursor:pointer;
+}
+/* --------------------------------------------------------------container---------------------------------------------------------- */
+.category1{
+    background-color: orange;
+    padding:10px 30px;
+    border-radius:15px;
+
+
+}
+.category2{
+    background-color:orchid;
+    padding:10px 30px;
+    border-radius:15px;
+
+
+}
+.category3{
+    background-color:blue;
+    padding:10px 30px;
+    border-radius:15px;
+
+}
+.categorycolor h1{
+    color:#fff;
+}
+.categorycolor img{
+    width:100px;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card h5{
+    font-weight:bolder ;
+    color:red  ;
+}
+
+
+/* ----------------------contaniner but bag---------------------------------------- */
+.margin{
+    margin:20px;
+    border-radius:500px;
+}
+.endpage{
+    background-color:#fceae8;
+    height:300px;
+
+}
+.margin h6{
+    color:gray;
+    font-weight: bold;
+}
+.container button:hover{
+    background-color:lightyellow;
+}
+.container .padding3{
+    margin-bottom:30px;
+}
+footer{
+    width:100%;
+    margin:0 auto;
+    text-align: center;
 }
